@@ -1,2 +1,1 @@
-print("this is common file")
-print("added dummy")
+print("A's common file")
