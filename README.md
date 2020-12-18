@@ -1,1 +1,1 @@
-# git-learnz
+# git-learn
